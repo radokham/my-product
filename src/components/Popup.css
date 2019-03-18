@@ -1,0 +1,23 @@
+button{
+    outline: none;
+  background: #333;
+  border: none;
+  display: inline-block;
+  padding: 6px 18px;
+  color: #eee;
+  margin-top: 15px;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  font-size: 12px;
+  cursor: pointer;
+}
+button:hover {  
+    background: rgb(165, 41, 4);    
+}
+
+#erreur{
+    text-align: center;
+    color: red;
+    margin-top: 10px;
+}
